@@ -1,0 +1,13 @@
+# VS config
+.vs/
+*.suo
+*.user
+*.cache
+
+# Build output
+bin/
+obj/
+
+# Logs / temps
+*.log
+*.tmp
